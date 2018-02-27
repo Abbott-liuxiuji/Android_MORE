@@ -4,7 +4,7 @@
 
 首先，就像Android开源和兼容性技术负责人Dan Morrill在Android开发手册兼容性部分所解释的，“Android并不是传统的Linux风格的一个规范或分发版本，也不是一系列可重用的组件集成，Android是一个用于连接设备的软件块。”
 
-![androidwhy1](/Users/liuxiuji/Desktop/github_lxj_knowledge/Android_MORE/image/androidwhy1.png)
+![androidwhy1](/image/androidwhy1.png)
 
 **Linux：**
 
@@ -28,13 +28,13 @@ Dalvik虚拟机只执行.dex的可执行文件。当Java程序通过编译，最
 
 在下面的图中，绿色的大部分组件是基于Apache许可证开源，其余基于GPL、LGPL和BSD。
 
-![androidwhy2](/Users/liuxiuji/Desktop/github_lxj_knowledge/Android_MORE/image/androidwhy2.png)
+![androidwhy2](/image/androidwhy2.png)
 
 **Android框架**
 
 在Android开发者网（developer.android.com)
 
-![androidwhy3](/Users/liuxiuji/Desktop/github_lxj_knowledge/Android_MORE/image/androidwhy3.png)
+![androidwhy3](/image/androidwhy3.png)
 
 **标准库**
 
@@ -44,6 +44,6 @@ Dalvik虚拟机只执行.dex的可执行文件。当Java程序通过编译，最
 
 一个Android App包含在一个我们称之为APK的压缩文件夹中，APK并没有什么可说的，需要注意的是Android Manifest——介于App和Android System的接口。（大多数应用是基于Dalvik的，我指的是除了游戏之外的应用。游戏开发者通常希望用C/C++来编写，排斥使用虚拟机，所以他们可以通过Andriod NDK来开发。）
 
-![androidwhy4](/Users/liuxiuji/Desktop/github_lxj_knowledge/Android_MORE/image/androidwhy4.png)
+![androidwhy4](/image/androidwhy4.png)
 
-![androidwhy5](/Users/liuxiuji/Desktop/github_lxj_knowledge/Android_MORE/image/androidwhy5.png)
+![androidwhy5](/image/androidwhy5.png)
