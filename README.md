@@ -6,6 +6,7 @@ Android是一种基于Linux的自由及开放源代码的操作系统，主要�
 
 <br>
 <br>
+
 |[android 系统架构](/content/whyandroid.md)|
 
 |[android 适配](/content/android.md)|
