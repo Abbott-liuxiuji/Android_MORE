@@ -57,7 +57,7 @@ webview.setWebViewClient(new WebViewClient()){
 
 场景三：通过webview浏览复杂的前端界面，对画质图片要求比较高
 
-对于改场景，如果对WebGL有要求的话，建议直接放弃使用android 系统对webview的使用。因系统问题，建议使用第三方组件：
+对于该场景，如果对WebGL有要求的话，建议直接放弃使用android 系统对webview的使用。因系统问题，建议使用第三方组件：
 
 腾讯X5Webview
 
