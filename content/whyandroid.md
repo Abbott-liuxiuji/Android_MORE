@@ -1,4 +1,4 @@
-# android 系统机构
+# android 系统架构
 ***
 ### 1、Android是什么？
 
