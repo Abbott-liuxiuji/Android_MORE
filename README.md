@@ -13,3 +13,5 @@ Android是一种基于Linux的自由及开放源代码的操作系统，主要�
 
 |[android 混合开发对webview支持](/content/androidwebview.md)|
 
+|[android 分享第三方平台签名信息获取](/content/android.md)|
+
