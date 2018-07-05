@@ -6,11 +6,9 @@
 解决方法：看清问题，不是 ClassNotFoundException 异常，是 NoClassDefFoundError；
 第一步：重新构建Application，并在配置文件引入。
 第二部：重写 attachBaseContext 方法
-     /**
-     * 解决 java.lang.NoClassDefFoundError
-     * @param base
-     */
-    @Override protected void attachBaseContext(Context base) {
+    
+    @Override 
+    protected void attachBaseContext(Context base) {
         super.attachBaseContext(base);
         MultiDex.install(base);
     }
