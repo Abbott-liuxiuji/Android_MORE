@@ -7,13 +7,13 @@ Android是一种基于Linux的自由及开放源代码的操作系统，主要�
 <br>
 <br>
 
-|[android 系统架构](/content/whyandroid.md)|
+|[系统架构](/content/whyandroid.md)|
 
-|[android 适配](/content/android.md)|
+|[适配](/content/android.md)|
 
-|[android 混合开发对webview支持](/content/androidwebview.md)|
+|[混合开发对webview支持](/content/androidwebview.md)|
 
-|[android 分享第三方平台签名信息获取](/content/qianming.md)|
+|[分享第三方平台签名信息获取](/content/qianming.md)|
 
-|[android 常见问题终极方法解决](/content/androidquestion.md)|
+|[常见问题终极方法解决](/content/androidquestion.md)|
 
