@@ -12,3 +12,8 @@
         super.attachBaseContext(base);
         MultiDex.install(base);
     }
+##2、Android studio 编译java类爆红，但项目可以运行
+
+解决方法：
+第一步：打开Android studio，选择项目后，点击File，找到菜单栏中 Invalidate Caches/Restart
+第二步：在弹出的对话框中点击Invalidate and Restart就可以了，他会自动清理缓存并重启Android studio
