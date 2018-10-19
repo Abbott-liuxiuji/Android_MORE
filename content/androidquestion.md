@@ -17,3 +17,10 @@
 解决方法：
 第一步：打开Android studio，选择项目后，点击File，找到菜单栏中 Invalidate Caches/Restart
 第二步：在弹出的对话框中点击Invalidate and Restart就可以了，他会自动清理缓存并重启Android studio
+
+##3、APP 原生代码传值到HTML 异常
+解决JS报错chromium: [INFO:CONSOLE(1)] "Uncaught TypeError:
+
+解决方法：
+
+
