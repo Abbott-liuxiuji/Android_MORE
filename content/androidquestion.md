@@ -22,6 +22,7 @@
 解决JS报错chromium: [INFO:CONSOLE(1)] "Uncaught TypeError:
 
 解决方法：
+
 webview.localUrl("javascript:jsImageUrl('"+data+"')");  
 注：data两边各加一个 单引号
 
